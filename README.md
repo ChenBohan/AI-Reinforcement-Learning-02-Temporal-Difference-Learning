@@ -5,6 +5,8 @@ Reinforcement Learning Course Offered at Georgia Tech as CS 8803 on Udacity
 
 [Reinforcement Learning 第四周课程笔记](https://www.jianshu.com/p/881ab7e41adb)
 
+[Reinforcement Learning 6.Temporal-Difference Learning](https://blog.csdn.net/coffee_cream/article/details/70194456)
+
 ## Overview
 
 <img src="https://github.com/ChenBohan/AI-Reinforcement-Learning-02-Temporal-Difference-Learning/blob/master/readme_img/what_have_we_learned_3.png" width = "70%" height = "70%" div align=center />
